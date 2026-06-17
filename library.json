@@ -1,0 +1,16 @@
+{
+  "name": "LITTLEFS_LIB",
+  "version": "1.1.0",
+  "description": "nodemcu es8266 kartlar için (1mb-3mb) arası hafıza yönetimi",
+  "keywords": ["nodemcu", "esp8266", "LittleFS", "File", "library"],
+  "authors": [
+    {
+      "name": "emirhan özçelik",
+      "email": "emirhanozcelik339@gmail.com"
+    }
+  ],
+  "license": "MIT",
+  "frameworks": ["arduino"],
+  "platforms": ["esp8266"],
+  "headers": ["LITTLEFS_LIB.h"]
+}
